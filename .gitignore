@@ -17,7 +17,6 @@ dist/
 runtime/
 
 # Output
-output/
 *.log
 
 # IDE / OS
@@ -36,3 +35,5 @@ Thumbs.db
 *.pth
 *.ckpt
 *.db
+
+# 保留 output/ 中的结果图表作为示例产出
